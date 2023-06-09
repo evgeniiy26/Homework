@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    background-color: yellow;
+}
+
+a:hover{
+    background-color: blue;
+}
+
+.link{
+    color: red;
+}
