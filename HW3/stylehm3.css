@@ -1,6 +1,8 @@
 h1{
     text-align: center;
     background-color: yellow;
+    padding: 20px;
+    margin: 20px;
 }
 
 a:hover{
